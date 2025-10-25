@@ -1,6 +1,4 @@
-Project: Laminate_Plates_Analysis
-
-Save Material_Database_SI.xlsx to your folder and run the .m file. 
+Material_Database_SI.xlsx has material properties for lamina, fiber, and matrix. See excel workbook for material names and material ID numbers.
 
 Outputs: ply failure using max stress criteria, ABD matrix, Resultant forces
 
